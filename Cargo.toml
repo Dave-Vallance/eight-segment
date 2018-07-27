@@ -2,6 +2,12 @@
 name = "eight-segment"
 version = "0.1.0"
 authors = ["David McGillicuddy <contact@djmcgill.co.uk>"]
+description = "Control 8-segment hex single-digit displays"
+readme = "README.md"
+keywords = ["hal","embedded-hal", "segment", "display"]
+licence = "MIT"
+categories = ["embedded", "hardware-support", "no-std"]
+repository = "https://github.com/djmcgill/eight-segment"
 
 [dependencies]
 embedded-hal = "~0.2"
