@@ -1,0 +1,7 @@
+[package]
+name = "eight-segment"
+version = "0.1.0"
+authors = ["David McGillicuddy <contact@djmcgill.co.uk>"]
+
+[dependencies]
+embedded-hal = "~0.2"
