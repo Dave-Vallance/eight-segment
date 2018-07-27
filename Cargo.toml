@@ -5,7 +5,7 @@ authors = ["David McGillicuddy <contact@djmcgill.co.uk>"]
 description = "Control 8-segment hex single-digit displays"
 readme = "README.md"
 keywords = ["hal","embedded-hal", "segment", "display"]
-licence = "MIT"
+license = "MIT"
 categories = ["embedded", "hardware-support", "no-std"]
 repository = "https://github.com/djmcgill/eight-segment"
 
